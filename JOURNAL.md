@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 5.41h | 4 |
+| Week 4 | Tier 1 | 5.55h | 4 |
 
 ## Contents
 
@@ -31,7 +31,7 @@ I found all the parts for my pcb and then figured out the best way to power LEDs
 
 ### 2026-10-31: I made and started the routing for my Morse code trainer, mostly focusing on the leds
 
-**2.03h**
+**2.17h**
 
 I made and started the routing for my Morse code trainer, mostly focusing on the leds
 
