@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 6.21h | 4 |
+| Week 4 | Tier 1 | 5.41h | 4 |
 
 ## Contents
 
@@ -47,7 +47,7 @@ Routed 90 percent of my PCB and finished it up. I struggled to get the Raspberry
 
 ### 2026-11-01: Work session
 
-**1.37h**
+**0.57h**
 
 Work session
 
